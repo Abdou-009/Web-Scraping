@@ -3,9 +3,9 @@
 This is a web scraping application built with Python, utilizing the structure of a Flutter authentication app. Instead of authentication functionalities, it scrapes data from web pages following the same structure.
 
 <br><br>
-<img src="images/job_finder_result.png" alt="Job Finder Result" width="200">
-<img src="images/cars_json_file.png" alt="Cars JSON File" width="200">
-<img src="images/product_csv_file.png" alt="Product CSV File" width="200">
+<img src="images/job_finder_result.png" alt="Job Finder Result" width="250">
+<img src="images/cars_json_file.png" alt="Cars JSON File" width="250">
+<img src="images/product_csv_file.png" alt="Product CSV File" width="250">
 <br>
 
 ## Features
@@ -30,6 +30,7 @@ This is a web scraping application built with Python, utilizing the structure of
 
 ```bash
 pip install httpx selectolax beautifulsoup4
+```
 
 ## Dependencies
 
