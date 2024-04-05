@@ -3,11 +3,11 @@
 This is a web scraping application built with Python, utilizing the structure of a Flutter authentication app. Instead of authentication functionalities, it scrapes data from web pages following the same structure.
 
 <br><br>
-<img src="images/cars_json_file.png" alt="Cars JSON File" width="400">
-<img src="images/cars_csv_file.png" alt="Cars JSON File" width="400">
-<img src="images/product_json_file.png" alt="Product CSV File" width="400">
-<img src="images/product_csv_file.png" alt="Product CSV File" width="400">
-<img src="images/job_finder_result.png" alt="Job Finder Result" width="400">
+<img src="images/cars_json_file.png" alt="Cars JSON File" width="800">
+<img src="images/cars_csv_file.png" alt="Cars JSON File" width="800">
+<img src="images/product_json_file.png" alt="Product CSV File" width="800">
+<img src="images/product_csv_file.png" alt="Product CSV File" width="800">
+<img src="images/job_finder_result.png" alt="Job Finder Result" width="800">
 <br>
 
 ## Features
